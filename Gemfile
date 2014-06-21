@@ -20,6 +20,8 @@ gem 'devise'
 gem "rolify"
 #cancan
 gem "cancan"
+#Admin
+gem 'rails_admin', github: 'sferik/rails_admin'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
